@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "qr3-skills",
+  "version": "1.0.0",
+  "description": "Portable qr3.app Skills für QR-Codes, API-Integration und EU Digital Product Passports.",
+  "author": {
+    "name": "qr3.app",
+    "url": "https://qr3.app"
+  },
+  "homepage": "https://qr3.app/de/skills/",
+  "repository": "https://github.com/ostheimer/qr3-skills",
+  "keywords": ["qr-code", "digital-product-passport", "gs1", "agent-skills", "qr3"]
+}
