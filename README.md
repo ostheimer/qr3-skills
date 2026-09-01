@@ -18,10 +18,14 @@ Repository enthalten.
 
 ## Installation
 
-Installation, Aktivierung und Updates werden vom jeweiligen kompatiblen
-Agent-Client verwaltet. Verwende dieses Repository als Plugin-Quelle und folge
-der Installationsanleitung des Clients. Zum lokalen Prüfen oder für Clients mit
-Dateisystem-Import kann das Paket geklont werden:
+```bash
+npx skills add ostheimer/qr3-skills
+```
+
+Installation, Aktivierung und Updates verwaltet danach der jeweilige
+kompatible Agent-Client — Speicherort und Freigaben unterscheiden sich je
+Client. Zum lokalen Prüfen oder für Clients mit Dateisystem-Import kann das
+Paket auch geklont werden:
 
 ```bash
 git clone https://github.com/ostheimer/qr3-skills.git

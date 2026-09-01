@@ -1,6 +1,6 @@
 ---
 name: qr3-quickstart
-description: Richtet qr3.app ein und erstellt den ersten verlässlichen URL-QR-Code über API, CLI oder SDK. Verwenden, wenn ein Nutzer qr3.app erstmals nutzt oder einen API-Key testen möchte.
+description: Set up qr3.app and create a first reliable URL QR code via API, CLI, or SDK. Use when a user is new to qr3.app or wants to test an API key.
 ---
 
 # qr3 Schnellstart

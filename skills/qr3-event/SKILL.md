@@ -1,6 +1,6 @@
 ---
 name: qr3-event
-description: Plant verlässliche qr3.app QR-Code-Workflows für Veranstaltungen. Verwenden, wenn ein Nutzer QR-Codes für Registrierung, Programm, WLAN, Feedback oder nachträgliche Auswertung benötigt.
+description: Plan reliable qr3.app QR code workflows for events. Use when a user needs QR codes for registration, schedules, WiFi, feedback, or post-event analytics.
 ---
 
 # QR-Codes für Veranstaltungen

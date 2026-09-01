@@ -1,6 +1,6 @@
 ---
 name: qr3-retail
-description: Plant verlässliche qr3.app QR-Code-Workflows für Einzelhandel, E-Commerce und Produktverpackungen. Verwenden, wenn ein Nutzer Produktinformationen, Kampagnen oder dokumentierte DPP-Links per QR-Code bereitstellen möchte.
+description: Plan reliable qr3.app QR code workflows for retail, e-commerce, and product packaging. Use when a user wants to serve product information, campaigns, or documented DPP links via QR code.
 ---
 
 # QR-Codes für Handel und Verpackung

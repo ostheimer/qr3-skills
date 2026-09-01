@@ -1,6 +1,6 @@
 ---
 name: qr3-gastro
-description: Plant verlässliche qr3.app QR-Code-Workflows für Restaurants, Cafés und Gastronomie. Verwenden, wenn ein Nutzer Speisekarten, Gäste-WLAN, Bewertungen oder saisonale Angebote per QR-Code bereitstellen möchte.
+description: Plan reliable qr3.app QR code workflows for restaurants, cafes, and hospitality. Use when a user wants to serve menus, guest WiFi, reviews, or seasonal offers via QR code.
 ---
 
 # QR-Codes für die Gastronomie

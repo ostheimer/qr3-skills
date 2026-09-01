@@ -1,6 +1,6 @@
 ---
 name: qr3-create
-description: Erstellt qr3.app QR-Codes über die dokumentierte REST-API, das SDK oder die URL-orientierte CLI. Verwenden, wenn ein Nutzer einen QR-Code erzeugen oder einen passenden QR-Typ wählen möchte.
+description: Create qr3.app QR codes via the documented REST API, the SDK, or the URL-oriented CLI. Use when a user wants to generate a QR code or pick the right QR type.
 ---
 
 # QR-Codes erstellen

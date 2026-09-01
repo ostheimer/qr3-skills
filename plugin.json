@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "qr3-skills",
   "version": "1.0.0",
-  "description": "Portable qr3.app Skills für QR-Codes, API-Integration und EU Digital Product Passports.",
+  "description": "Portable qr3.app skills for QR codes, REST API integration, and EU Digital Product Passports (DPP).",
   "author": {
     "name": "qr3.app",
     "url": "https://qr3.app"

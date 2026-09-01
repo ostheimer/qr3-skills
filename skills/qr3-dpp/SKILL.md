@@ -1,6 +1,6 @@
 ---
 name: qr3-dpp
-description: Erstellt und validiert dokumentierte qr3.app Digital Product Passports mit GS1 Digital Link. Verwenden, wenn ein Nutzer Batterie-, Textil- oder allgemeine DPP-Daten, Resolver-URLs oder QR-Assets benötigt.
+description: Create and validate documented qr3.app Digital Product Passports (DPP) with GS1 Digital Link. Use when a user needs battery, textile, or general DPP data, resolver URLs, or QR assets.
 ---
 
 # Digital Product Passports

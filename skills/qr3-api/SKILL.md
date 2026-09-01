@@ -1,6 +1,6 @@
 ---
 name: qr3-api
-description: Unterstützt die verlässliche Integration der qr3.app REST-API. Verwenden, wenn ein Nutzer Authentifizierung, QR-Code-Endpunkte, Paginierung, Rate Limits oder RFC-7807-Fehler behandeln möchte.
+description: Integrate the qr3.app REST API reliably. Use when a user works on authentication, QR code endpoints, pagination, rate limits, or RFC 7807 error handling.
 ---
 
 # qr3 API-Integration
